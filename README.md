@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kailashmishra15
-- 👀 I’m interested in ...DBMS,java
-- 🌱 I’m currently learning ...java,DBMS
+- 👀 I’m interested in ...Angular framework,java,spring framework
+- 🌱 I’m currently learning ...springboot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...just DM me my  instgram account @kailashmishra15
 
